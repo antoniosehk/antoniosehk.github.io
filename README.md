@@ -1,10 +1,6 @@
 ## About myself
 
-Antonio obtained his Ph.D. in [Systems Design Engineering](https://uwaterloo.ca/systems-design-engineering/) specialized in Intelligent Systems and Software (ISS) at the [University of Waterloo](https://uwaterloo.ca/).
-
-You can use the [editor on GitHub](https://github.com/antoniosehk/antoniosehk.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Antonio obtained his Ph.D. in [Systems Design Engineering](https://uwaterloo.ca/systems-design-engineering/) specialized in Intelligent Systems and Software (ISS) at the [University of Waterloo (UW)](https://uwaterloo.ca/). He also obtained his M.Phil in Computer Science and Engineering and B.Sc. in Computer Science degree with 1st class honor from [the Chinese University of Hong Kong (CUHK)](http://www.cuhk.edu.hk/) in 2014 and 2011 respectively. He was placed on the Dean’s list (Top 10%) his graduating year.
 
 ### Markdown
 
