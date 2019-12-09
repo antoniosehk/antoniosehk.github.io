@@ -1,6 +1,6 @@
 ## About myself
 
-Antonio has further obtained his Ph.D. of  Systems Design Engineering specialized in Intelligent Systems and Software (ISS) at the [University of Waterloo](https://uwaterloo.ca/).
+Antonio has further obtained his Ph.D. in [Systems Design Engineering](https://uwaterloo.ca/systems-design-engineering/) specialized in Intelligent Systems and Software (ISS) at the [University of Waterloo](https://uwaterloo.ca/).
 
 You can use the [editor on GitHub](https://github.com/antoniosehk/antoniosehk.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
