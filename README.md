@@ -2,7 +2,7 @@
 
 Antonio obtained his Ph.D. in [Systems Design Engineering](https://uwaterloo.ca/systems-design-engineering/) specialized in Intelligent Systems and Software (ISS) at [University of Waterloo (UW)](https://uwaterloo.ca/). He also obtained his M.Phil in Computer Science and Engineering and B.Sc. in Computer Science degree with 1st class honor from the [Chinese University of Hong Kong (CUHK)](http://www.cuhk.edu.hk/) in 2014 and 2011 respectively. He was placed on the Dean’s list (Top 10%) his graduating year.
 
-He is currently a postdoctoral fellow responsible for Machine Learning Software Development in [Kimia Lab](https://kimialab.uwaterloo.ca/kimia/) for the [Vector Institute](https://vectorinstitute.ai/) Pathfinder project to apply and deploy deep learning in detecting Pneumothorax on chest X-ray images, collaboratively with University Health Network in Toronto.
+He is currently a postdoctoral fellow responsible for Machine Learning Software Development in [Kimia Lab](https://kimialab.uwaterloo.ca/kimia/) for the [Vector Institute](https://vectorinstitute.ai/) [Pathfinder project](https://vectorinstitute.ai/2019/07/16/thousands-of-images-at-the-radiologists-fingertips-seeing-the-invisible/) to apply and deploy deep learning in detecting Pneumothorax on chest X-ray images, collaboratively with [University Health Network](https://www.uhn.ca/) in Toronto.
 
 ### Markdown
 
