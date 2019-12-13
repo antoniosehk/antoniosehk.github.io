@@ -33,8 +33,11 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 ### Journal Publication
 
 J10. Zhou, P. Y., Sze-To, A., & Wong, A. K. (2018). Discovery and disentanglement of aligned residue associations from aligned pattern clusters to reveal subgroup characteristics. BMC medical genomics, 11(5), 103. Paper.
+
 J9. Sze-To, A., & Wong, A. K. (2018). Discovering Patterns From Sequences Using Pattern-Directed Aligned Pattern Clustering. NanoBioscience, IEEE Transactions on. Paper.
+
 J8. Wong, A. K. C., Sze-To, H. Y., & Johanning, G. L. (2018). Pattern to Knowledge: Deep Knowledge-Directed Machine Learning for Residue-Residue Interaction Prediction. Nature Scientific reports, 8, 14841. Paper.
+
 J7. Zhou, P., Lee, E. S. A., Sze-To, A., & Wong, A. K. (2018). Revealing Subtle Functional Subgroups in Class A Scavenger Receptors by Pattern Discovery and Disentanglement of Aligned Pattern Clusters. Proteomes 2018, 6(1), 10; doi: 10.3390/proteomes6010010. Paper.
 J6. Lee, E. S. A., Sze-To, A., Wong, A. K., & Stashuk, D. (2016). Unsupervised Pattern Discovery in Biosequences using Aligned Pattern Clustering. SM Journal of Bioinformatics and Proteomics. Paper.
 J5. Sze-To, A., Fung, S., Lee, E. S. A., & Wong, A. K. (2016). Prediction of Protein-Protein Interaction via Co-Occurring Aligned Pattern Clusters. Methods, 10.1016/j.ymeth.2016.07.018. Paper.
