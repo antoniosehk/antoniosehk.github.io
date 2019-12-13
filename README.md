@@ -37,4 +37,4 @@ He is currently a postdoctoral fellow responsible for Machine Learning Software 
 
 ### Contact
 
-Feel free to contact [Antonio](mailto:antonioszeto@gmail.com) for opportunities
+Feel free to contact [Antonio](mailto:antonioszeto@gmail.com) for opportunities.
