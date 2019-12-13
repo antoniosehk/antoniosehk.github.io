@@ -52,4 +52,4 @@ For my full publication list, please visit my [Google Scholar](https://scholar.g
 
 ### Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Feel free to contact [Antonio](mailto:antonioszeto@gmail.com) for opportunities
