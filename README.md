@@ -12,21 +12,21 @@ For my full publication list, please visit my [Google Scholar](https://scholar.g
 
 ### Journal
 
-1. **Sze-To, A.**, & Wong, A. K. (2018). Discovering Patterns From Sequences Using Pattern-Directed Aligned Pattern Clustering. NanoBioscience, IEEE Transactions on. Paper.
+1. **Sze-To, A.**, & Wong, A. K. (2018). Discovering Patterns From Sequences Using Pattern-Directed Aligned Pattern Clustering. NanoBioscience, IEEE Transactions on. [Paper](https://ieeexplore.ieee.org/document/8375967).
 
-2. Wong, A. K. C., **Sze-To, H. Y.**, & Johanning, G. L. (2018). Pattern to Knowledge: Deep Knowledge-Directed Machine Learning for Residue-Residue Interaction Prediction. Nature Scientific reports, 8, 14841. Paper.
+2. Wong, A. K. C., **Sze-To, H. Y.**, & Johanning, G. L. (2018). Pattern to Knowledge: Deep Knowledge-Directed Machine Learning for Residue-Residue Interaction Prediction. Nature Scientific reports, 8, 14841. [Paper](https://www.nature.com/articles/s41598-018-32834-z).
 
-3. **Sze-To, A.**, Fung, S., Lee, E. S. A., & Wong, A. K. (2016). Prediction of Protein-Protein Interaction via Co-Occurring Aligned Pattern Clusters. Methods, 10.1016/j.ymeth.2016.07.018. Paper.
+3. **Sze-To, A.**, Fung, S., Lee, E. S. A., & Wong, A. K. (2016). Prediction of Protein-Protein Interaction via Co-Occurring Aligned Pattern Clusters. Methods, 10.1016/j.ymeth.2016.07.018. [Paper](https://www.ncbi.nlm.nih.gov/pubmed/27476008).
 
 ### Conference 
 
-1. **Sze-To, A.**, & Wang, Z. (2019, August). tCheXNet: Detecting Pneumothorax on Chest X-Ray Images Using Deep Transfer Learning. In International Conference on Image Analysis and Recognition (pp. 325-332). Springer, Cham. Paper.
+1. **Sze-To, A.**, & Wang, Z. (2019, August). tCheXNet: Detecting Pneumothorax on Chest X-Ray Images Using Deep Transfer Learning. In International Conference on Image Analysis and Recognition (pp. 325-332). Springer, Cham. [Paper](https://link.springer.com/chapter/10.1007/978-3-030-27272-2_28).
 
-2. **Sze-To, A.**, & Wong, A. K. (2017). Pattern-Directed Aligned Pattern Clustering. In Bioinformatics and Biomedicine (BIBM), 2017 IEEE International Conference on. IEEE. Acceptance Rate: 19%. Won IEEE TCCLS Student Award. Paper.
+2. **Sze-To, A.**, & Wong, A. K. (2017). Pattern-Directed Aligned Pattern Clustering. In Bioinformatics and Biomedicine (BIBM), 2017 IEEE International Conference on. IEEE. Acceptance Rate: 19%. Won IEEE TCCLS Student Award. [Paper](https://ieeexplore.ieee.org/document/8217620).
 
-3. **Sze-To, A.**, Tizhoosh, H. R., & Wong, A. K. (2016). Binary Codes for Tagging X-Ray Images via Deep De-Noising Autoencoders. In Neural Networks (IJCNN), 2016 International Joint Conference on. IEEE. Paper.
+3. **Sze-To, A.**, Tizhoosh, H. R., & Wong, A. K. (2016). Binary Codes for Tagging X-Ray Images via Deep De-Noising Autoencoders. In Neural Networks (IJCNN), 2016 International Joint Conference on. IEEE. [Paper](https://ieeexplore.ieee.org/abstract/document/7727561).
 
-4. **Sze-To, A.**, Fung, S., Lee, E. S. A., & Wong, A. K. (2015, November). Predicting Protein-protein interaction using co-occurring Aligned Pattern Clusters. In Bioinformatics and Biomedicine (BIBM), 2015 IEEE International Conference on (pp. 55-60). IEEE. Accepted Rate: 19%. Paper.
+4. **Sze-To, A.**, Fung, S., Lee, E. S. A., & Wong, A. K. (2015, November). Predicting Protein-protein interaction using co-occurring Aligned Pattern Clusters. In Bioinformatics and Biomedicine (BIBM), 2015 IEEE International Conference on (pp. 55-60). IEEE. Accepted Rate: 19%. [Paper](https://www.ncbi.nlm.nih.gov/pubmed/27476008).
 
 ## About myself
 
