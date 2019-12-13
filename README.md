@@ -50,6 +50,6 @@ For my full publication list, please visit my [Google Scholar](https://scholar.g
 
 4. **Sze-To, A.**, Fung, S., Lee, E. S. A., & Wong, A. K. (2015, November). Predicting Protein-protein interaction using co-occurring Aligned Pattern Clusters. In Bioinformatics and Biomedicine (BIBM), 2015 IEEE International Conference on (pp. 55-60). IEEE. Accepted Rate: 19%. Paper.
 
-### Support or Contact
+### Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
