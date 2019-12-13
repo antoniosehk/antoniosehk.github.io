@@ -1,7 +1,7 @@
 ## Project Portfolio
 
 ### Spaceship Escape [4th Oct, 2019] [Space Apps Challenge 2019]
-This is an online game, where the spaceship needs to escape the comming space dust. The game is developed in Space Apps Challenge 2019. It is hosted on Google Cloud, developed using Python Flask, sqlite, HTML5, CSS, Javascript, and PyGame. [Demo available here](http://34.70.173.88/static/game.html).
+This is an online game, where the spaceship needs to escape the coming space debris. The game is developed in Space Apps Challenge 2019. It is hosted on Google Cloud, developed using Python Flask, sqlite, HTML5, CSS, Javascript, and PyGame. [Demo available here](http://34.70.173.88/static/game.html).
 
 ### Construction Materials Purchasing System [15th Sept, 2019] [Oxford Global Hackathon 2019 Tornto]
 This is a prototype system for helping users to purchase construction materials, developed in Oxford Global Hackathon 2019 - Toronto. The system is hosted on Google Cloud, developed using Python Flask, sqlite, HTML5, CSS, Javascript. [Demo available here](http://34.70.173.88/).
