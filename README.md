@@ -33,13 +33,13 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 For my full publication list, please visit my [Google Scholar](https://scholar.google.ca/citations?user=5eIGmcIAAAAJ&hl=en) 
 
 ### Journal
-
+```
 1. **Sze-To, A.**, & Wong, A. K. (2018). Discovering Patterns From Sequences Using Pattern-Directed Aligned Pattern Clustering. NanoBioscience, IEEE Transactions on. Paper.
 
 2. Wong, A. K. C., **Sze-To, H. Y.**, & Johanning, G. L. (2018). Pattern to Knowledge: Deep Knowledge-Directed Machine Learning for Residue-Residue Interaction Prediction. Nature Scientific reports, 8, 14841. Paper.
 
 3. **Sze-To, A.**, Fung, S., Lee, E. S. A., & Wong, A. K. (2016). Prediction of Protein-Protein Interaction via Co-Occurring Aligned Pattern Clusters. Methods, 10.1016/j.ymeth.2016.07.018. Paper.
-
+```
 
 ### Conference 
 
@@ -50,10 +50,6 @@ For my full publication list, please visit my [Google Scholar](https://scholar.g
 3. **Sze-To, A.**, Tizhoosh, H. R., & Wong, A. K. (2016). Binary Codes for Tagging X-Ray Images via Deep De-Noising Autoencoders. In Neural Networks (IJCNN), 2016 International Joint Conference on. IEEE. Paper.
 
 4. **Sze-To, A.**, Fung, S., Lee, E. S. A., & Wong, A. K. (2015, November). Predicting Protein-protein interaction using co-occurring Aligned Pattern Clusters. In Bioinformatics and Biomedicine (BIBM), 2015 IEEE International Conference on (pp. 55-60). IEEE. Accepted Rate: 19%. Paper.
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/antoniosehk/antoniosehk.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
