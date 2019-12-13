@@ -7,7 +7,7 @@ He is currently a postdoctoral fellow responsible for Machine Learning Software 
 ## Project Portfolio
 
 
-### Construction Materials Purchasing System [2019]
+### Construction Materials Purchasing System [15th Sept, 2019] [Link](http://34.70.173.88/)
 This is a prototype system for helping users to purchase construction materials, developed in Oxford Global Hackathon 2019 - Toronto.
 
 ## Refereed Publications 
