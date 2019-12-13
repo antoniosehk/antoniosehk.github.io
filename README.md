@@ -7,8 +7,8 @@ He is currently a postdoctoral fellow responsible for Machine Learning Software 
 ## Project Portfolio
 
 ```
-1. Construction Materials Purchasing System
-This is a prototype system for helping users to purchase construction materials, developed in 
+### 1. Construction Materials Purchasing System
+This is a prototype system for helping users to purchase construction materials, developed in Oxford Global Hackathon 2019 - Toronto.
 ```
 
 ## Refereed Publications 
