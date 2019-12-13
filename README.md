@@ -8,7 +8,7 @@ This is a prototype system for helping users to purchase construction materials,
 
 ## Refereed Publications 
 
-For my full publication list, please visit my [Google Scholar](https://scholar.google.ca/citations?user=5eIGmcIAAAAJ&hl=en) 
+For my full publication list, please visit my [Google Scholar](https://scholar.google.ca/citations?user=5eIGmcIAAAAJ&hl=en). 
 
 ### Journal
 
