@@ -30,6 +30,8 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ## Publications 
 
+Google Scholar 
+
 ### Journal Publication
 
 J10. Zhou, P. Y., Sze-To, A., & Wong, A. K. (2018). Discovery and disentanglement of aligned residue associations from aligned pattern clusters to reveal subgroup characteristics. BMC medical genomics, 11(5), 103. Paper.
