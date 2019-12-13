@@ -8,9 +8,7 @@ He is currently a postdoctoral fellow responsible for Machine Learning Software 
 
 
 ### Construction Materials Purchasing System [15th Sept, 2019] [Link](http://34.70.173.88/)
-```
-This is a prototype system for helping users to purchase construction materials, developed in Oxford Global Hackathon 2019 - Toronto.
-```
+This is a prototype system for helping users to purchase construction materials, developed in Oxford Global Hackathon 2019 - Toronto. The system is hosted on Google Cloud, developed using Python Flask, sqlite, HTML5, CSS, Javascript.
 
 ## Refereed Publications 
 
