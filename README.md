@@ -33,13 +33,12 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 For my full publication list, please visit my [Google Scholar](https://scholar.google.ca/citations?user=5eIGmcIAAAAJ&hl=en) 
 
 ### Journal
-```
+
 1. **Sze-To, A.**, & Wong, A. K. (2018). Discovering Patterns From Sequences Using Pattern-Directed Aligned Pattern Clustering. NanoBioscience, IEEE Transactions on. Paper.
 
 2. Wong, A. K. C., **Sze-To, H. Y.**, & Johanning, G. L. (2018). Pattern to Knowledge: Deep Knowledge-Directed Machine Learning for Residue-Residue Interaction Prediction. Nature Scientific reports, 8, 14841. Paper.
 
 3. **Sze-To, A.**, Fung, S., Lee, E. S. A., & Wong, A. K. (2016). Prediction of Protein-Protein Interaction via Co-Occurring Aligned Pattern Clusters. Methods, 10.1016/j.ymeth.2016.07.018. Paper.
-```
 
 ### Conference 
 
