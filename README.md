@@ -34,7 +34,7 @@ This is a prototype system for helping users to purchase construction materials,
 2. Buddha’s Light International Association Toronto Subchapter Outstanding Member, 2018
 3. Buddha’s Light International Association Toronto Subchapter Outstanding Member, 2016
 
-## Refereed Publications 
+## Selected Publications 
 
 For my full publication list, please visit my [Google Scholar](https://scholar.google.ca/citations?user=5eIGmcIAAAAJ&hl=en). 
 
