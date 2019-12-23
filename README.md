@@ -16,7 +16,7 @@ This is a prototype system for helping users to purchase construction materials,
 
 ### Academic Achievement
 1. [IEEE TCCLS Student Award](https://antonioszeto.files.wordpress.com/2017/11/2017_11_15_02.jpg), 2017 IEEE International Conference on Bioinformatics and Biomedicine, 2017
-2. Best Paper Award, 13th International Conference on Data Mining (DMIN’17), 2017
+2. [Best Paper Award](https://antonioszeto.files.wordpress.com/2013/04/best-paper-awad.jpg), 13th International Conference on Data Mining (DMIN’17), 2017
 3. Buddha’s Light Young Adult Scholarship, 2016
 4. Waterloo-China Graduate Scholarship, University of Waterloo, 2014 – 2017
 
