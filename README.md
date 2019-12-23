@@ -21,7 +21,7 @@ This is a prototype system for helping users to purchase construction materials,
 4. Waterloo-China Graduate Scholarship, University of Waterloo, 2014 – 2017
 
 ### Leadership
-1. Term-of-President Award, University of Waterloo Federation of Students, 2018
+1. [Term-of-President Award](https://antonioszeto.files.wordpress.com/2018/08/20180716_03.jpg), University of Waterloo Federation of Students, 2018
 
 ### Community Service
 1. Buddha’s Light International Association Toronto Subchapter Outstanding Member, 2019
