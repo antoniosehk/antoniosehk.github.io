@@ -15,18 +15,18 @@ This is a prototype system for helping users to purchase construction materials,
 ## Awards
 
 ### Academic Achievement
-IEEE TCCLS Student Award, 2017 IEEE International Conference on Bioinformatics and Biomedicine, 2017
-Best Paper Award, 13th International Conference on Data Mining (DMIN’17), 2017
-Buddha’s Light Young Adult Scholarship, 2016
-Waterloo-China Graduate Scholarship, University of Waterloo, 2014 – 2017
+1. IEEE TCCLS Student Award, 2017 IEEE International Conference on Bioinformatics and Biomedicine, 2017
+2. Best Paper Award, 13th International Conference on Data Mining (DMIN’17), 2017
+3. Buddha’s Light Young Adult Scholarship, 2016
+4. Waterloo-China Graduate Scholarship, University of Waterloo, 2014 – 2017
 
 ### Leadership
-Term-of-President Award, University of Waterloo Federation of Students, 2018
+1. Term-of-President Award, University of Waterloo Federation of Students, 2018
 
-### Service
-Buddha’s Light International Association Toronto Subchapter Outstanding Member, 2019
-Buddha’s Light International Association Toronto Subchapter Outstanding Member, 2018
-Buddha’s Light International Association Toronto Subchapter Outstanding Member, 2016
+### Community Service
+1. Buddha’s Light International Association Toronto Subchapter Outstanding Member, 2019
+2. Buddha’s Light International Association Toronto Subchapter Outstanding Member, 2018
+3. Buddha’s Light International Association Toronto Subchapter Outstanding Member, 2016
 
 ## Refereed Publications 
 
