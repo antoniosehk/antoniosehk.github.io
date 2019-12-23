@@ -12,6 +12,18 @@ This is an online game, where the player needs to control the spaceship to escap
 ### Construction Materials Purchasing System [15th Sept, 2019]
 This is a prototype system for helping users to purchase construction materials, developed in [Oxford Global Hackathon 2019 - Toronto](https://www.hackworks.com/en/OxfordHackathonToronto). The system is hosted on Google Cloud, developed using Python Flask, sqlite, HTML5, CSS, Javascript. [Demo available here](http://34.70.173.88/).
 
+## Awards
+
+### Academic Achievement
+IEEE TCCLS Student Award, 2017 IEEE International Conference on Bioinformatics and Biomedicine, 2017
+Best Paper Award, 13th International Conference on Data Mining (DMIN’17), 2017
+
+### Leadership
+Term-of-President Award, University of Waterloo Federation of Students, 2018
+
+### Service
+Buddha’s Light International Association Toronto Subchapter Outstanding Member, 2016
+
 ## Refereed Publications 
 
 For my full publication list, please visit my [Google Scholar](https://scholar.google.ca/citations?user=5eIGmcIAAAAJ&hl=en). 
