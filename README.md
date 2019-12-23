@@ -20,6 +20,12 @@ This is a prototype system for helping users to purchase construction materials,
 3. Buddha’s Light Young Adult Scholarship, 2016
 4. Waterloo-China Graduate Scholarship, University of Waterloo, 2014 – 2017
 
+### Teaching Excellence
+1. Certificate of Merit, appreciation for excellent teaching assistantship for the course CSCI3230 Fundamentals of Artificial Intelligence, Department of Computer Science and Engineering, CUHK, 2013 – 2014
+2. Certificate of Merit, appreciation for excellent teaching assistantship for the course CSCI3230 Fundamentals of Artificial Intelligence, Department of Computer Science and Engineering, CUHK, 2012 – 2013
+3. Certificate of Merit, appreciation for excellent teaching assistantship for the course CSCI6200 Advanced Topics in Artificial Intelligence, Department of Computer Science and Engineering, CUHK, 2012 – 2013
+4. Certificate of Merit, appreciation for excellent teaching assistantship for the course CSCI3230 Fundamentals of Artificial Intelligence, Department of Computer Science and Engineering, CUHK, 2011 – 2012
+
 ### Leadership
 1. [Term-of-President Award](https://antonioszeto.files.wordpress.com/2018/08/20180716_03.jpg), University of Waterloo Federation of Students, 2018
 
