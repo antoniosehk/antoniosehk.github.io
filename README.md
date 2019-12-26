@@ -9,10 +9,12 @@ He is currently a postdoctoral fellow responsible for Machine Learning Software 
 ### Spaceship Escape Online Game [4th Oct, 2019]
 Demo available here: [http://34.70.173.88/static/game.html](http://34.70.173.88/static/game.html)
 
-This is an online game, where the player needs to control the spaceship to escape from the surrounding space debris. The game was developed in [Space Apps Challenge 2019](https://www.spaceappschallenge.org/). It is hosted on Google Cloud, developed using Python Flask, sqlite, HTML5, CSS, Javascript, Bootstrap, and PyGame. [Demo available here](http://34.70.173.88/static/game.html).
+This is an online game, where the player needs to control the spaceship to escape from the surrounding space debris. The game was developed in [Space Apps Challenge 2019](https://www.spaceappschallenge.org/). It is hosted on Google Cloud, developed using Python Flask, sqlite, HTML5, CSS, Javascript, Bootstrap, and PyGame. 
 
 ### Construction Materials Purchasing System [15th Sept, 2019]
-This is a prototype system for helping users to purchase construction materials, developed in [Oxford Global Hackathon 2019 - Toronto](https://www.hackworks.com/en/OxfordHackathonToronto). The system is hosted on Google Cloud, developed using Python Flask, sqlite, HTML5, CSS, Javascript and Bootstrap. [Demo available here](http://34.70.173.88/).
+Demo available here: [http://34.70.173.88](http://34.70.173.88)
+
+This is a prototype system for helping users to purchase construction materials, developed in [Oxford Global Hackathon 2019 - Toronto](https://www.hackworks.com/en/OxfordHackathonToronto). The system is hosted on Google Cloud, developed using Python Flask, sqlite, HTML5, CSS, Javascript and Bootstrap. 
 
 ### Protein-Protein Interaction Site Machine Learning Prediction System [4th Oct, 2018]
 This is a prototype system for predicting the interacting sites between two protein sequences, based on only sequence input. The machine learning models were constructed by Python scikit-learn, outperforming the state-of-the-art by a ROC of 15%. This piece of work has been published in [Nature Scientific reports](https://www.nature.com/articles/s41598-018-32834-z). The system is developed using Python Flask, sqlite, HTML5, CSS, Javascript, PHP, and Bootstrap. [Demo available here](http://p2k.uwaterloo.ca).
