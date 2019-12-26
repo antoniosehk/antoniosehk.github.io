@@ -7,7 +7,7 @@ He is currently a postdoctoral fellow responsible for Machine Learning Software 
 ## Project Portfolio
 
 ### Spaceship Escape Online Game [4th Oct, 2019]
-[http://34.70.173.88/static/game.html](http://34.70.173.88/static/game.html)
+Demo available here: [http://34.70.173.88/static/game.html](http://34.70.173.88/static/game.html)
 
 This is an online game, where the player needs to control the spaceship to escape from the surrounding space debris. The game was developed in [Space Apps Challenge 2019](https://www.spaceappschallenge.org/). It is hosted on Google Cloud, developed using Python Flask, sqlite, HTML5, CSS, Javascript, Bootstrap, and PyGame. [Demo available here](http://34.70.173.88/static/game.html).
 
