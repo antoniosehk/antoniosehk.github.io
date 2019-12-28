@@ -67,4 +67,4 @@ For my full publication list, please visit my [Google Scholar](https://scholar.g
 
 ### Contact
 
-Feel free to contact [Antonio](mailto:antonioszeto@gmail.com) for opportunities.
+Feel free to contact [Antonio](mailto:antonioszeto@gmail.com) here.
