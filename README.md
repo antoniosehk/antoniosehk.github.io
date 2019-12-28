@@ -1,9 +1,3 @@
-## About myself
-
-Antonio obtained his Ph.D. in [Systems Design Engineering](https://uwaterloo.ca/systems-design-engineering/) specialized in Intelligent Systems and Software (ISS) at [University of Waterloo (UW)](https://uwaterloo.ca/). He also obtained his M.Phil in Computer Science and Engineering and B.Sc. in Computer Science degree with 1st class honor from the [Chinese University of Hong Kong (CUHK)](http://www.cuhk.edu.hk/) in 2014 and 2011 respectively. He was placed on the Dean’s list (Top 10%) his graduating year.
-
-He is currently a postdoctoral fellow responsible for Machine Learning Software Development in [Kimia Lab](https://kimialab.uwaterloo.ca/kimia/) for the [Vector Institute](https://vectorinstitute.ai/) [Pathfinder project](https://vectorinstitute.ai/2019/07/16/thousands-of-images-at-the-radiologists-fingertips-seeing-the-invisible/) to apply and deploy deep learning in detecting Pneumothorax on chest X-ray images, collaboratively with [University Health Network](https://www.uhn.ca/) in Toronto.
-
 ## Project Portfolio
 
 ### Insignio: Pneumothorax Detection System [1st June, 2019 - Present]
@@ -21,7 +15,7 @@ Demo available here: [https://antonioszeto.tech](https://antonioszeto.tech)
 
 This is a prototype system for helping users to purchase construction materials, developed in [Oxford Global Hackathon 2019 - Toronto](https://www.hackworks.com/en/OxfordHackathonToronto). The system is hosted on Google Cloud, developed using Python Flask, sqlite, HTML5, CSS, Javascript and Bootstrap. 
 
-### Protein-Protein Interaction Site Machine Learning Prediction System [4th Oct, 2018]
+### Protein-Protein Interaction Site Machine Learning Prediction System [1st Oct, 2018 - 28th Feb, 2019]
 Demo available here: [https://p2k.uwaterloo.ca](https://p2k.uwaterloo.ca)
 
 This is a prototype system for predicting the interacting sites between two protein sequences, based on only sequence input. The machine learning models were constructed by Python scikit-learn, outperforming the state-of-the-art by a ROC of 15%. This piece of work has been published in [Nature Scientific reports](https://www.nature.com/articles/s41598-018-32834-z). The system is developed using Python Flask, sqlite, HTML5, CSS, Javascript, PHP, and Bootstrap.
@@ -73,3 +67,10 @@ For my full publication list, please visit my [Google Scholar](https://scholar.g
 ### Contact
 
 Feel free to contact [Antonio](mailto:antonioszeto@gmail.com) here.
+
+## About myself
+
+Antonio obtained his Ph.D. in [Systems Design Engineering](https://uwaterloo.ca/systems-design-engineering/) specialized in Intelligent Systems and Software (ISS) at [University of Waterloo (UW)](https://uwaterloo.ca/). He also obtained his M.Phil in Computer Science and Engineering and B.Sc. in Computer Science degree with 1st class honor from the [Chinese University of Hong Kong (CUHK)](http://www.cuhk.edu.hk/) in 2014 and 2011 respectively. He was placed on the Dean’s list (Top 10%) his graduating year.
+
+He is currently a postdoctoral fellow responsible for Machine Learning Software Development in [Kimia Lab](https://kimialab.uwaterloo.ca/kimia/) for the [Vector Institute](https://vectorinstitute.ai/) [Pathfinder project](https://vectorinstitute.ai/2019/07/16/thousands-of-images-at-the-radiologists-fingertips-seeing-the-invisible/) to apply and deploy deep learning in detecting Pneumothorax on chest X-ray images, collaboratively with [University Health Network](https://www.uhn.ca/) in Toronto.
+
