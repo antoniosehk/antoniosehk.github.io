@@ -3,7 +3,7 @@
 ### Insignio: Seeing Pneumothorax in X-Ray Images [1st June, 2019 - Present]
 Demo available here: [https://insignio.tech](https://insignio.tech)
 
-As a postdoctoral fellow responsible for Machine Learning Software Development in Kimia Lab for the Vector Institute Pathfinder project, I worked to apply and deploy deep learning in detecting Pneumothorax on chest X-ray images, collaboratively with University Health Network in Toronto, achieving an accuracy of 89%. It is deployed as a web application hosted on Google Cloud with a self-registered domain name via Namecheap using Keras/Tensorflow, Python Flask, HTML5, Javascript, with SSL encryption on data transmission.
+As a postdoctoral fellow responsible for Machine Learning Software Development in Kimia Lab for the Vector Institute Pathfinder project, I worked to apply and deploy deep learning in detecting Pneumothorax on chest X-ray images using Keras/Tensorflow, collaboratively with University Health Network in Toronto, achieving an accuracy of 89%. It is deployed as a web application hosted on Google Cloud with a self-registered domain name via Namecheap, leveraging Python Flask, HTML5, Javascript, with SSL encryption on data transmission.
 
 ### Spaceship Escape Online Game [4th Oct, 2019]
 Demo available here: [https://antonioszeto.tech/static/space-app-2019/game.html](https://antonioszeto.tech/static/space-app-2019/game.html)
