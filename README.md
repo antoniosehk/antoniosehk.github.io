@@ -70,4 +70,4 @@ Antonio obtained his Ph.D. in [Systems Design Engineering](https://uwaterloo.ca/
 
 He is currently a postdoctoral fellow responsible for Machine Learning Software Development in [Kimia Lab](https://kimialab.uwaterloo.ca/kimia/) for the [Vector Institute](https://vectorinstitute.ai/) [Pathfinder project](https://vectorinstitute.ai/2019/07/16/thousands-of-images-at-the-radiologists-fingertips-seeing-the-invisible/) to apply and deploy deep learning in detecting Pneumothorax on chest X-ray images, collaboratively with [University Health Network](https://www.uhn.ca/) in Toronto.
 
-If you need help from Antonio, please feel free to contact him by Email (<a href:"mailto:antonioszeto@gmail.com>"antonioszeto@gmail.com</a>).
+If you need help from Antonio, please feel free to contact him by Email (<a href="mailto:antonioszeto@gmail.com>"antonioszeto@gmail.com</a>).
