@@ -1,7 +1,7 @@
 ## Project Portfolio
 
 ### Insignio: Seeing Pneumothorax in X-Ray Images [1st June, 2019 - Present]
-Demo available here: [https://insignio.tech](https://insignio.tech)
+Demo available here: [https://kimia-insignio.tech](https://kimia-insignio.tech)
 
 As a postdoctoral fellow responsible for Machine Learning Software Development in Kimia Lab for the Vector Institute Pathfinder project, I worked to apply and deploy deep learning in detecting Pneumothorax on chest X-ray images using Keras/Tensorflow, collaboratively with University Health Network in Toronto, achieving an accuracy of 89%. It is deployed as a web application hosted on Google Cloud with a self-registered domain name via Namecheap, leveraging Python Flask, HTML5, Javascript, with SSL encryption on data transmission.
 
