@@ -67,12 +67,11 @@ For my full publication list, please visit my [Google Scholar](https://scholar.g
 ## Online Courses
 
 ### Machine Learning / Deep Learning
-1. Convolutional Neural Networks in TensorFlow, deeplearning.ai, issued on Dec 2019. [Certificate](https://www.coursera.org/account/accomplishments/verify/KLENB2AKNCN2)
+1. Convolutional Neural Networks in TensorFlow, deeplearning.ai, issued on Dec 2019. [Certificate](https://www.coursera.org/account/accomplishments/verify/KLENB2AKNCN2).
 
-2. Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning, deeplearning.ai, issued on Dec 2019. [Certificate](https://www.coursera.org/account/accomplishments/verify/PKUYJNV9WMUJ)
+2. Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning, deeplearning.ai, issued on Dec 2019. [Certificate](https://www.coursera.org/account/accomplishments/verify/PKUYJNV9WMUJ).
 
-3. Neural Networks and Deep Learning, deeplearning.ai, issued on Dec 2017. [Certificate](https://www.coursera.org/account/accomplishments/verify/SPEM7CBC6XJX)
-
+3. Neural Networks and Deep Learning, deeplearning.ai, issued on Dec 2017. [Certificate](https://www.coursera.org/account/accomplishments/verify/SPEM7CBC6XJX).
 
 ## About myself
 
