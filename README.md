@@ -8,7 +8,7 @@ As a postdoctoral fellow responsible for Machine Learning Software Development i
 ### Spaceship Escape Online Game [4th Oct, 2019]
 Demo available here: [https://antonioszeto.tech/static/space-app-2019/game.html](https://antonioszeto.tech/static/space-app-2019/game.html)
 
-This is an online game, where the player needs to control the spaceship to escape from the surrounding space debris. The game was developed in [Space Apps Challenge 2019](https://www.spaceappschallenge.org/). It is hosted on Google Cloud, developed using Python Flask, sqlite, HTML5, CSS, Javascript, Bootstrap, and PyGame. 
+This is an online game, where the player needs to control the spaceship to escape from the surrounding space debris. The game was developed in [Space Apps Challenge 2019](https://www.spaceappschallenge.org/). It is hosted on Google Cloud, developed using Javascript and Python PyGame. 
 
 ### Construction Materials Purchasing System [15th Sept, 2019]
 Demo available here: [https://antonioszeto.tech](https://antonioszeto.tech)
