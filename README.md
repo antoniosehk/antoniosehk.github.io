@@ -8,12 +8,12 @@ As a postdoctoral fellow responsible for Machine Learning Software Development i
 ### Spaceship Escape Online Game [4th Oct, 2019]
 Demo available here: [https://antonioszeto.tech/static/space-app-2019/game.html](https://antonioszeto.tech/static/space-app-2019/game.html)
 
-This is an online game, where the player needs to control the spaceship to escape from the surrounding space debris. The game was developed in [Space Apps Challenge 2019](https://www.spaceappschallenge.org/). It is hosted on Google Cloud, developed using Javascript and Python PyGame. 
+This is an online game, where the player needs to control the spaceship to escape from the surrounding space debris. The game was developed in [Space Apps Challenge 2019](https://www.spaceappschallenge.org/) hackathon. It is hosted on Google Cloud, developed using Javascript and Python PyGame. 
 
 ### Construction Materials Purchasing System [15th Sept, 2019]
 Demo available here: [https://antonioszeto.tech](https://antonioszeto.tech)
 
-This is a prototype system for helping users to purchase construction materials, developed in [Oxford Global Hackathon 2019 - Toronto](https://www.hackworks.com/en/OxfordHackathonToronto). The system is hosted on Google Cloud, developed using Python Flask, sqlite, HTML5, CSS, Javascript and Bootstrap. 
+This is a prototype system for helping users to purchase construction materials, developed in [Oxford Global Hackathon 2019 - Toronto](https://www.hackworks.com/en/OxfordHackathonToronto) hackathon. The system is hosted on Google Cloud, developed using Python Flask, sqlite, HTML5, CSS, Javascript and Bootstrap. 
 
 ### Protein-Protein Interaction Site Machine Learning Prediction System [1st Oct, 2018 - 28th Feb, 2019]
 Demo available here: [https://p2k.uwaterloo.ca](https://p2k.uwaterloo.ca)
