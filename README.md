@@ -13,7 +13,7 @@ This is an online game, where the player needs to control the spaceship to escap
 ### Construction Materials Purchasing System [15th Sept, 2019]
 Demo available here: [https://antonioszeto.tech](https://antonioszeto.tech)
 
-This is a prototype system for helping users to purchase construction materials, developed in [Oxford Global Hackathon 2019 - Toronto](https://www.hackworks.com/en/OxfordHackathonToronto). The system is hosted on Google Cloud, developed using Python Flask, sqlite, HTML5, CSS, Javascript and Bootstrap. 
+This is a prototype system for helping a construction company to purchase construction materials from suppliers, developed in [Oxford Global Hackathon 2019 - Toronto](https://www.hackworks.com/en/OxfordHackathonToronto). The system is hosted on Google Cloud, developed using Python Flask, sqlite, HTML5, CSS, Javascript and Bootstrap. 
 
 ### Protein-Protein Interaction Site Machine Learning Prediction System [1st Oct, 2018 - 28th Feb, 2019]
 Demo available here: [https://p2k.uwaterloo.ca](https://p2k.uwaterloo.ca)
