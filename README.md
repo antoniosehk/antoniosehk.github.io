@@ -1,19 +1,9 @@
 ## Project Portfolio
 
-### Insignio: Seeing Pneumothorax in X-Ray Images [1st June, 2019 - Present]
-Demo available here: [https://kimia-insignio.tech](https://kimia-insignio.tech)
-
-As a postdoctoral fellow responsible for Machine Learning Software Development in Kimia Lab for the Vector Institute Pathfinder project, I worked to apply and deploy deep learning in detecting Pneumothorax on chest X-ray images using Keras/Tensorflow, collaboratively with University Health Network in Toronto, achieving an accuracy of 89%. It is deployed as a web application hosted on Google Cloud with a self-registered domain name via Namecheap, leveraging Python Flask, HTML5, Javascript, with SSL encryption on data transmission.
-
 ### Spaceship Escape Online Game [4th Oct, 2019]
-Demo available here: [https://antonioszeto.tech/static/space-app-2019/game.html](https://antonioszeto.tech/static/space-app-2019/game.html)
+Demo available here: [http://space-app-2019.antonioszeto.com](http://space-app-2019.antonioszeto.com)
 
-This is an online game, where the player needs to control the spaceship to escape from the surrounding space debris. The game was developed in [Space Apps Challenge 2019](https://www.spaceappschallenge.org/) hackathon. It is hosted on Google Cloud, developed using Javascript and Python PyGame. 
-
-### Construction Materials Purchasing System [15th Sept, 2019]
-Demo available here: [https://antonioszeto.tech](https://antonioszeto.tech)
-
-This is a prototype system for helping a construction company to purchase construction materials from suppliers, where  suppliers are invited to place bids on requested construction materials, developed in [Oxford Global Hackathon 2019 - Toronto](https://www.hackworks.com/en/OxfordHackathonToronto). The system is hosted on Google Cloud, developed using Python Flask, sqlite, HTML5, CSS, Javascript and Bootstrap. 
+This is an online game, where the player needs to control the spaceship to escape from the surrounding space debris. The game was developed in [Space Apps Challenge 2019](https://www.spaceappschallenge.org/) hackathon. It is hosted on AWS S3 via Route 53, developed using Javascript and Python PyGame. 
 
 ### Protein-Protein Interaction Site Machine Learning Prediction System [1st Oct, 2018 - 28th Feb, 2019]
 Demo available here: [https://p2k.uwaterloo.ca](https://p2k.uwaterloo.ca)
@@ -64,19 +54,21 @@ For my full publication list, please visit my [Google Scholar](https://scholar.g
 
 4. **Sze-To, A.**, Fung, S., Lee, E. S. A., & Wong, A. K. (2015, November). Predicting Protein-protein interaction using co-occurring Aligned Pattern Clusters. In Bioinformatics and Biomedicine (BIBM), 2015 IEEE International Conference on (pp. 55-60). IEEE. Accepted Rate: 19%. [Paper](https://www.ncbi.nlm.nih.gov/pubmed/27476008).
 
-## Online Courses
+## Certificates
 
-### Machine Learning / Deep Learning
-1. Convolutional Neural Networks in TensorFlow, deeplearning.ai, issued on Dec 2019. [Certificate](https://www.coursera.org/account/accomplishments/verify/KLENB2AKNCN2).
+### AWS
+1. AWS Certified Solutions Architect – Associate [Certificate](https://www.credly.com/badges/93396062-bdc9-41bb-811e-2f1dbcbc00be)
 
-2. Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning, deeplearning.ai, issued on Dec 2019. [Certificate](https://www.coursera.org/account/accomplishments/verify/PKUYJNV9WMUJ).
+2. AWS Certified Cloud Practitioner [Certificate](https://www.credly.com/badges/cc1c7cbf-e56e-4024-9e81-bac205f7b98e)
 
-3. Neural Networks and Deep Learning, deeplearning.ai, issued on Dec 2017. [Certificate](https://www.coursera.org/account/accomplishments/verify/SPEM7CBC6XJX).
+### Blockchain
+1. Coursera Blockchain Specialization [Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/KZZDJ3WYKGMH)
+
 
 ## About myself
 
 Antonio obtained his Ph.D. in [Systems Design Engineering](https://uwaterloo.ca/systems-design-engineering/) specialized in Intelligent Systems and Software (ISS) at [University of Waterloo (UW)](https://uwaterloo.ca/). He also obtained his M.Phil in Computer Science and Engineering and B.Sc. in Computer Science degree with 1st class honor from the [Chinese University of Hong Kong (CUHK)](http://www.cuhk.edu.hk/) in 2014 and 2011 respectively. He was placed on the Dean’s list (Top 10%) his graduating year.
 
-He is currently a postdoctoral fellow responsible for Machine Learning Software Development in [Kimia Lab](https://kimialab.uwaterloo.ca/kimia/) for the [Vector Institute](https://vectorinstitute.ai/) [Pathfinder project](https://vectorinstitute.ai/2019/07/16/thousands-of-images-at-the-radiologists-fingertips-seeing-the-invisible/) to apply and deploy deep learning in detecting Pneumothorax on chest X-ray images, collaboratively with [University Health Network](https://www.uhn.ca/) in Toronto.
+He is currently working in a FANNG company as a Software Development Engineer specialized in Cloud Development. He is a AWS Certified Solutions Architect - Associate. 
 
 If you need help from Antonio, please feel free to contact him by Email ([antonioszeto@gmail.com](mailto:antonioszeto@gmail.com)).
