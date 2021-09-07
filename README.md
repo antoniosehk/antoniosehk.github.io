@@ -1,12 +1,12 @@
 ## Project Portfolio
 
 ### Spaceship Escape Online Game [4th Oct, 2019]
-Demo available here: [http://space-app-2019.antonioszeto.com](http://space-app-2019.antonioszeto.com)
+Demo available here: [https://s3.amazonaws.com/space-app-2019.antonioszeto.com/game.html](https://s3.amazonaws.com/space-app-2019.antonioszeto.com/game.html)
 
 This is an online game, where the player needs to control the spaceship to escape from the surrounding space debris. The game was developed in [Space Apps Challenge 2019](https://www.spaceappschallenge.org/) hackathon. It is hosted on AWS S3 via Route 53, developed using Javascript and Python PyGame. 
 
 ### Protein-Protein Interaction Site Machine Learning Prediction System [1st Oct, 2018 - 28th Feb, 2019]
-Demo available here: [https://p2k.uwaterloo.ca](http://p2k.uwaterloo.ca)
+Demo available here: [http://p2k.uwaterloo.ca](http://p2k.uwaterloo.ca)
 
 This is a prototype system for predicting the interacting sites between two protein sequences, based on only sequence input. The machine learning models were constructed by Python scikit-learn, outperforming the state-of-the-art by a ROC of 15%. This piece of work has been published in [Nature Scientific reports](https://www.nature.com/articles/s41598-018-32834-z). The system is developed using Python Flask, sqlite, HTML5, CSS, Javascript, PHP, and Bootstrap.
 
