@@ -1,3 +1,24 @@
+## About myself
+
+Antonio is an AWS Certified Machine Learning Specialist. He has been working in Amazon to train/deploy/maintain Machine Learning models for more than 2 years. He was rated as a top-tier performer in the year of 2021, and was promoted as Software Development Engineer II (Machine Learning Engineer II) in 2022. He is also a qualified interviewer in Amazon. In his leisure time, he is interested in researching and developing AI applications in Web3/Decentralized Finance (DeFi).
+
+Antonio obtained his Ph.D. in [Systems Design Engineering](https://uwaterloo.ca/systems-design-engineering/) specialized in Intelligent Systems and Software (ISS) at [University of Waterloo (UW)](https://uwaterloo.ca/). He also obtained his M.Phil in Computer Science and Engineering and B.Sc. in Computer Science degree with 1st class honor from the [Chinese University of Hong Kong (CUHK)](http://www.cuhk.edu.hk/) in 2014 and 2011 respectively. He was placed on the Dean’s list (Top 10%) his graduating year. He has published 20+ academic publications related to Machine Learning in renowned journals such as Natures's Scientific Reports, and owned 1 US patent (US11074992B2).
+
+If you need help from Antonio, please feel free to contact him by Email ([antonioszeto@gmail.com](mailto:antonioszeto@gmail.com)).
+
+## Certificates
+
+### AWS
+1. AWS Certified Solutions Architect – Associate [Certificate](https://www.credly.com/badges/93396062-bdc9-41bb-811e-2f1dbcbc00be)
+
+2. AWS Certified Cloud Practitioner [Certificate](https://www.credly.com/badges/cc1c7cbf-e56e-4024-9e81-bac205f7b98e)
+
+### Blockchain
+1. Coursera Decentralized Finance (DeFi): The Future of Finance Specialization [Certificate](https://coursera.org/share/6fb93176c999ff92b4e24a8aca6e0da7)
+
+2. Coursera Blockchain Specialization [Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/KZZDJ3WYKGMH)
+
+
 ## Project Portfolio
 
 ### Spaceship Escape Online Game [4th Oct, 2019]
@@ -38,9 +59,9 @@ For my full publication list, please visit my [Google Scholar](https://scholar.g
 
 ### Journal
 
-1. **Sze-To, A.**, & Wong, A. K. (2018). Discovering Patterns From Sequences Using Pattern-Directed Aligned Pattern Clustering. NanoBioscience, IEEE Transactions on. [Paper](https://ieeexplore.ieee.org/document/8375967).
+1. **Sze-To, A.**, Riasatian, A., & Tizhoosh, H. R. (2021). Searching for pneumothorax in x-ray images using autoencoded deep features. Scientific reports, 11(1), 1-13.
 
-2. Wong, A. K. C., **Sze-To, H. Y.**, & Johanning, G. L. (2018). Pattern to Knowledge: Deep Knowledge-Directed Machine Learning for Residue-Residue Interaction Prediction. Nature Scientific reports, 8, 14841. [Paper](https://www.nature.com/articles/s41598-018-32834-z).
+2. **Sze-To, A.**, & Wong, A. K. (2018). Discovering Patterns From Sequences Using Pattern-Directed Aligned Pattern Clustering. NanoBioscience, IEEE Transactions on. [Paper](https://ieeexplore.ieee.org/document/8375967).
 
 3. **Sze-To, A.**, Fung, S., Lee, E. S. A., & Wong, A. K. (2016). Prediction of Protein-Protein Interaction via Co-Occurring Aligned Pattern Clusters. Methods, 10.1016/j.ymeth.2016.07.018. [Paper](https://www.ncbi.nlm.nih.gov/pubmed/27476008).
 
@@ -53,22 +74,3 @@ For my full publication list, please visit my [Google Scholar](https://scholar.g
 3. **Sze-To, A.**, Tizhoosh, H. R., & Wong, A. K. (2016). Binary Codes for Tagging X-Ray Images via Deep De-Noising Autoencoders. In Neural Networks (IJCNN), 2016 International Joint Conference on. IEEE. [Paper](https://ieeexplore.ieee.org/abstract/document/7727561).
 
 4. **Sze-To, A.**, Fung, S., Lee, E. S. A., & Wong, A. K. (2015, November). Predicting Protein-protein interaction using co-occurring Aligned Pattern Clusters. In Bioinformatics and Biomedicine (BIBM), 2015 IEEE International Conference on (pp. 55-60). IEEE. Accepted Rate: 19%. [Paper](https://www.ncbi.nlm.nih.gov/pubmed/27476008).
-
-## Certificates
-
-### AWS
-1. AWS Certified Solutions Architect – Associate [Certificate](https://www.credly.com/badges/93396062-bdc9-41bb-811e-2f1dbcbc00be)
-
-2. AWS Certified Cloud Practitioner [Certificate](https://www.credly.com/badges/cc1c7cbf-e56e-4024-9e81-bac205f7b98e)
-
-### Blockchain
-1. Coursera Blockchain Specialization [Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/KZZDJ3WYKGMH)
-
-
-## About myself
-
-Antonio obtained his Ph.D. in [Systems Design Engineering](https://uwaterloo.ca/systems-design-engineering/) specialized in Intelligent Systems and Software (ISS) at [University of Waterloo (UW)](https://uwaterloo.ca/). He also obtained his M.Phil in Computer Science and Engineering and B.Sc. in Computer Science degree with 1st class honor from the [Chinese University of Hong Kong (CUHK)](http://www.cuhk.edu.hk/) in 2014 and 2011 respectively. He was placed on the Dean’s list (Top 10%) his graduating year.
-
-He is currently working as a Software Development Engineer specialized in AWS. He is an AWS Certified Solutions Architect at the Associate level. For programming languages, he is familiar with Java and Python. He also has basic understanding in SQL, HTML, CSS, Javascript, PHP, and Bootstrap. 
-
-If you need help from Antonio, please feel free to contact him by Email ([antonioszeto@gmail.com](mailto:antonioszeto@gmail.com)).
