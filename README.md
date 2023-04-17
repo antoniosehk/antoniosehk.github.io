@@ -9,27 +9,16 @@ If you need help from Antonio, please feel free to contact him by Email ([antoni
 ## Certificates
 
 ### AWS
-1. AWS Certified Solutions Architect – Associate [Certificate](https://www.credly.com/badges/93396062-bdc9-41bb-811e-2f1dbcbc00be)
+1. AWS Certified Machine Learning – Specialty [Certificate](https://www.credly.com/badges/f1c94e58-f4e3-4e4c-86ca-3f1fdf5cd56d)
 
-2. AWS Certified Cloud Practitioner [Certificate](https://www.credly.com/badges/cc1c7cbf-e56e-4024-9e81-bac205f7b98e)
+2. AWS Certified Solutions Architect – Associate [Certificate](https://www.credly.com/badges/93396062-bdc9-41bb-811e-2f1dbcbc00be)
+
+3. AWS Certified Cloud Practitioner [Certificate](https://www.credly.com/badges/cc1c7cbf-e56e-4024-9e81-bac205f7b98e)
 
 ### Blockchain
 1. Coursera Decentralized Finance (DeFi): The Future of Finance Specialization [Certificate](https://coursera.org/share/6fb93176c999ff92b4e24a8aca6e0da7)
 
 2. Coursera Blockchain Specialization [Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/KZZDJ3WYKGMH)
-
-
-## Project Portfolio
-
-### Spaceship Escape Online Game [4th Oct, 2019]
-Demo available here: [https://s3.amazonaws.com/space-app-2019.antonioszeto.com/game.html](https://s3.amazonaws.com/space-app-2019.antonioszeto.com/game.html)
-
-This is an online game, where the player needs to control the spaceship to escape from the surrounding space debris. The game was developed in [Space Apps Challenge 2019](https://www.spaceappschallenge.org/) hackathon. It is hosted on AWS S3 via Route 53, developed using Javascript and Python PyGame. 
-
-### Protein-Protein Interaction Site Machine Learning Prediction System [1st Oct, 2018 - 28th Feb, 2019]
-Demo available here: [http://p2k.uwaterloo.ca](http://p2k.uwaterloo.ca)
-
-This is a prototype system for predicting the interacting sites between two protein sequences, based on only sequence input. The machine learning models were constructed by Python scikit-learn, outperforming the state-of-the-art by a ROC of 15%. This piece of work has been published in [Nature Scientific reports](https://www.nature.com/articles/s41598-018-32834-z). The system is developed using Python Flask, sqlite, HTML5, CSS, Javascript, PHP, and Bootstrap.
 
 ## Awards
 
@@ -74,3 +63,15 @@ For my full publication list, please visit my [Google Scholar](https://scholar.g
 3. **Sze-To, A.**, Tizhoosh, H. R., & Wong, A. K. (2016). Binary Codes for Tagging X-Ray Images via Deep De-Noising Autoencoders. In Neural Networks (IJCNN), 2016 International Joint Conference on. IEEE. [Paper](https://ieeexplore.ieee.org/abstract/document/7727561).
 
 4. **Sze-To, A.**, Fung, S., Lee, E. S. A., & Wong, A. K. (2015, November). Predicting Protein-protein interaction using co-occurring Aligned Pattern Clusters. In Bioinformatics and Biomedicine (BIBM), 2015 IEEE International Conference on (pp. 55-60). IEEE. Accepted Rate: 19%. [Paper](https://www.ncbi.nlm.nih.gov/pubmed/27476008).
+
+## Project Portfolio
+
+### Spaceship Escape Online Game [4th Oct, 2019]
+Demo available here: [https://s3.amazonaws.com/space-app-2019.antonioszeto.com/game.html](https://s3.amazonaws.com/space-app-2019.antonioszeto.com/game.html)
+
+This is an online game, where the player needs to control the spaceship to escape from the surrounding space debris. The game was developed in [Space Apps Challenge 2019](https://www.spaceappschallenge.org/) hackathon. It is hosted on AWS S3 via Route 53, developed using Javascript and Python PyGame. 
+
+### Protein-Protein Interaction Site Machine Learning Prediction System [1st Oct, 2018 - 28th Feb, 2019]
+Demo available here: [http://p2k.uwaterloo.ca](http://p2k.uwaterloo.ca)
+
+This is a prototype system for predicting the interacting sites between two protein sequences, based on only sequence input. The machine learning models were constructed by Python scikit-learn, outperforming the state-of-the-art by a ROC of 15%. This piece of work has been published in [Nature Scientific reports](https://www.nature.com/articles/s41598-018-32834-z). The system is developed using Python Flask, sqlite, HTML5, CSS, Javascript, PHP, and Bootstrap.
